@@ -1,2 +1,4 @@
-# Practice-Sample
-Sample test, trial, practice, etc
+
+This is Danielle's repository.
+
+I enjoy reading different kinds of medium.
